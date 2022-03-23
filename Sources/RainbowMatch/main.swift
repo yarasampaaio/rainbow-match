@@ -7,7 +7,7 @@ let colors = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
 
 let dicionario = [0: "Amarelo", 1: "Amarelo Alanjado", 2: "Laranja", 3: "Vermelho Alaranjado", 4: "Vermelho", 5: "Vermelho Arroxeado", 6: "Violeta", 7: "Azul Arroxeado", 8: "Azul", 9: "Azul Esverdeado", 10: "Verde", 11: "Amarelo Esverdeado"]
 
-let listaCor = ["Amarelo", "Amarelo Alanjado", "Laranja", "Vermelho Alaranjado", "Vermelho", "Vermelho Arroxeado", "Violeta", "Azul Arroxeado", "Azul", "Azul Esverdeado", "Verde", "Amarelo Esverdeado"]
+let listaCor = ["Amarelo", "Amarelo Alaranjado", "Laranja", "Vermelho Alaranjado", "Vermelho", "Vermelho Arroxeado", "Violeta", "Azul Arroxeado", "Azul", "Azul Esverdeado", "Verde", "Amarelo Esverdeado"]
 
 // MARK: BOAS VINDAS
 
