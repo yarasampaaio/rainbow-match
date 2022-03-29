@@ -1,13 +1,14 @@
-# RainbowMatch! 🌈
+# Rainbow Match! 🌈
+> Uma mova forma de colorir o seu look através do seu mood.
 <p align="center">
   <img src="https://i.ibb.co/bRP00xy/2.png%22/%3E" />
 </p>
 
 ## 🧠 Porque?
-O Rainbow Match foi pensado pra você, pessoa que ainda tem medo de aproveitar a paleta completa de cores disponibilizada no mundo da moda, ou também pra você, pessoa que ainda sente dificuldade de combinar cores e montar o look cheio de personalidade. Assim, ele foi criado com o intuito de resolver problemas muito além do guarda-roupa, mas de autoestima, otimização  do espaço no seu closet e, claro, economia na hora de comprar pensando em peças funcionais. 
+O Rainbow Match! foi pensado pra você, pessoa que ainda tem medo de aproveitar a paleta completa de cores disponibilizada no mundo da moda, ou também pra você que ainda sente dificuldade de combinar cores e montar o look cheio de personalidade. Assim, ele foi criado com o intuito de resolver problemas muito além do guarda-roupa, mas de autoestima, otimização do espaço no seu closet e, claro, economia na hora de comprar pensando em peças funcionais. 
   
 ## ⚙️ Como utilizar?
-Para começar, o CLI tem no menu principal 4 derivações de estilo: criativo, divertido, clássico e na passarela, assim, o usuário escolher qual o seu “mood” do dia. A partir disso, ele escolhe qual sua cor principal, ou seja, aquela que deseja combinar. O programa, então, a partir da entrada dessa primeira coloração, sugere 1 ou 2 outras cores para combinar com ela e caso o usuário não goste das propostas, ele pode voltar ao menu principal e escolher outro estilo. 
+Para começar, o CLI tem no menu principal 4 derivações de estilo: Criativo; Divertido; Clássico e a passarela, assim, o usuário escolher qual o seu “mood” do dia. A partir disso, ele escolhe qual sua cor principal, ou seja, aquela que deseja combinar. O programa, então, a partir da entrada dessa primeira coloração, sugere 1 ou 2 outras cores para combinar com ela e caso o usuário não goste das propostas, ele pode voltar ao menu principal e escolher outro estilo. 
 
 ### 📌 Exemplo de uso.
 
@@ -27,6 +28,7 @@ Para começar, o CLI tem no menu principal 4 derivações de estilo: criativo, d
 <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
 
 ##  💭 Atualizações futuras.
-> Sugestão do dia!
-> 
-> Deu match?
+### Sugestão do dia!
+* Nessa nova opção, o programa dá uma sugestão aleatória de combinação de cores (2 ou 3 cores).
+### Deu Match?
+* Agora, nessa alternativa de uso, o usuário pode aplica 2 ou 3 cores, e constatar se combinam em algum aspecto.
