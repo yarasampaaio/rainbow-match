@@ -19,7 +19,7 @@ Para começar, o CLI tem no menu principal 4 derivações de estilo: "Criativo",
 ## 💻 Como instalar?
 1.  Utilizando o comando git clone, o usuário clona este repositório em uma pasta da sua maquina;
 
-2. Para abrir este programa, no terminal o usuario utiliza o comando “ls”;
+2. Para abrir este programa, no terminal o usuario deve entrar na pasta onde está localizado este repositorio.
 
 3. Para executar, ainda no terminal, aborda-se o comando “Swift run RainbowMatch”.
 
