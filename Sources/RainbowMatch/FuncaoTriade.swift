@@ -8,17 +8,6 @@
 import Foundation
 
 
-func escolhaCor () -> Int {
-    print("\n👨‍🎨 Escolhe uma cor pra gente colorir.")
-    var respostaDoUsuario = Int(readLine()!)!
-    while respostaDoUsuario > 11 {
-        print("⚠️ Opa! Digite um número que esteja na nossa cartela de cores.")
-        respostaDoUsuario = Int(readLine()!)!
-    }
-    return respostaDoUsuario
-    
-}
-
 //FUNCAO PARA DESCOBRIR A TRIADE ANTERIOR
 
 func triadeAnterior(for color: Int) -> Int? {
@@ -66,3 +55,4 @@ func triadePosterior(for color: Int) -> Int? {
     return nil
     
 }
+

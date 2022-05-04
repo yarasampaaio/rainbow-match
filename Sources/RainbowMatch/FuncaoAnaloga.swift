@@ -15,7 +15,7 @@ func analogaDepois (for color: Int) -> Int? {
 
         var analogaPosterior: Int
 
-        let d = index + 1
+        let d = index + 1 
 
         if d <= 11 {
             analogaPosterior = colors[d]
